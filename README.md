@@ -17,7 +17,7 @@ To use the Pre-release Notice Webpage, follow these steps:
 
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pre-release-notice-webpage.git
+   git clone https://github.com/Sombitpramanik/launch.git
 
 2. **Upload to PHP-enabled Server:**
 Ensure that you have access to a server with PHP installed. Upload the contents of the repository to the server using your preferred method (FTP, Git, etc.).
